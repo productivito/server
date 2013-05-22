@@ -1,0 +1,5 @@
+D:\Dev\Important Projects\Bin\CodeContracts\Cassia.noReferenceAssembly
+D:\Dev\Important Projects\Bin\Cassia.dll
+D:\Dev\Important Projects\Bin\Cassia.pdb
+D:\Dev\Important Projects\prjMarian\Cassia\obj\Debug\Cassia.dll
+D:\Dev\Important Projects\prjMarian\Cassia\obj\Debug\Cassia.pdb

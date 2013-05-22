@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProjectMarian">
+</Property><Property Name="Solution File" Value="D:\Dev\Important Projects\prjMarian\ProjectMarian.sln">
+</Property><Property Name="Date" Value="Sunday, February 03, 2013">
+</Property><Property Name="Time" Value="18:22:02 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Cassia.csproj" Description="Project file successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Cassia.csproj">
+</Event><Event ErrorLevel="1" Project="Cassia" Source="..\VersionInfo.cs" Description="Backed up project may not build.  Project contains linked file: D:\Dev\Important Projects\prjMarian\Backup1\Properties\VersionInfo.cs">
+</Event><Event ErrorLevel="2" Project="Cassia" Source="..\VersionInfo.cs" Description="Failed to backup file as D:\Dev\Important Projects\prjMarian\Backup1\Properties\VersionInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\ClientDisplay.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\ClientDisplay.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\IClientDisplay.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\IClientDisplay.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\NamespaceDoc.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\NamespaceDoc.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ConnectionState.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ConnectionState.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WINSTATIONINFOCLASS.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WINSTATIONINFOCLASS.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WINSTATIONINFORMATIONW.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WINSTATIONINFORMATIONW.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTSINFO.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTSINFO.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_CLIENT_ADDRESS.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_CLIENT_ADDRESS.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_CLIENT_DISPLAY.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_CLIENT_DISPLAY.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_INFO_CLASS.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_INFO_CLASS.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_PROCESS_INFO.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_PROCESS_INFO.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_SERVER_INFO.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_SERVER_INFO.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\WTS_SESSION_INFO.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\WTS_SESSION_INFO.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ITerminalServer.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ITerminalServer.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ITerminalServerHandle.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ITerminalServerHandle.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ITerminalServicesManager.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ITerminalServicesManager.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ITerminalServicesProcess.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ITerminalServicesProcess.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ITerminalServicesSession.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ITerminalServicesSession.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\LazyLoadedProperty.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\LazyLoadedProperty.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\LocalServerHandle.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\LocalServerHandle.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\NamespaceDoc.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\NamespaceDoc.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\NativeMethods.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\NativeMethods.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\RemoteMessageBoxButtons.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\RemoteMessageBoxButtons.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\RemoteMessageBoxDefaultButton.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\RemoteMessageBoxDefaultButton.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\RemoteMessageBoxIcon.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\RemoteMessageBoxIcon.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\RemoteMessageBoxOptions.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\RemoteMessageBoxOptions.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\RemoteMessageBoxResult.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\RemoteMessageBoxResult.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\NativeMethodsHelper.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\NativeMethodsHelper.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\ShutdownType.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\ShutdownType.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\TerminalServer.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\TerminalServer.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\RemoteServerHandle.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\RemoteServerHandle.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\TerminalServicesManager.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\TerminalServicesManager.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\TerminalServicesProcess.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\TerminalServicesProcess.cs">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Impl\TerminalServicesSession.cs" Description="File successfully backed up as D:\Dev\Important Projects\prjMarian\Backup1\Impl\TerminalServicesSession.cs">
+</Event><Event ErrorLevel="1" Project="Cassia" Source="Cassia\Cassia.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Cassia.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cassia" Source="Cassia\Cassia.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cassia" Source="Cassia\Cassia.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

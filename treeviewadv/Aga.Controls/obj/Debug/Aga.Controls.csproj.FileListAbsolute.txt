@@ -1,0 +1,7 @@
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\bin\Debug\Aga.Controls.dll
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\bin\Debug\Aga.Controls.pdb
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\obj\Debug\Aga.Controls.Properties.Resources.resources
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\obj\Debug\Aga.Controls.Tree.TreeViewAdv.resources
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\obj\Debug\Aga.Controls.csproj.GenerateResource.Cache
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\obj\Debug\Aga.Controls.dll
+D:\Dev\Important Projects\prjMarian\treeviewadv\Aga.Controls\obj\Debug\Aga.Controls.pdb
